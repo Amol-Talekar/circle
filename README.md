@@ -14,7 +14,8 @@ This is a frontend project to showcase the expanding and then contracting circle
 - Use command ``` npm run dev``` to start the app.
 
 
-# Output 
+# Live Demo
+https://circle-amol-talekar.vercel.app/
 
 
 
